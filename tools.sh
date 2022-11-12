@@ -9,9 +9,12 @@ sudo apt install openbox -y
 # tray
 # panel
 # lxsession truc du genre
-# minimal wm (openbox ?)
 # gestionnaire d'alimentation
 # gestionnaire son (pulseaudio)
+sudo apt install xpdf numlockx
 
 sudo update-rc.d -f nitrogen --restore defaults
 
+echo "${B}###Configuration autostart###${N}"
+cp ~/sh/autostart ~/.config/openbox
+chmod +x ~/.config/openbox/autostart
