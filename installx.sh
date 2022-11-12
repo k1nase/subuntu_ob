@@ -25,3 +25,6 @@ echo "${B}##Installation des logiciels de base + wallapers##${N}"
 sudo apt install xterm gedit firefox pcmanfm nitrogen ubuntu-wallpapers-jammy -y
 
 
+echo "${B}--Vous pouvez maintenant tester le fonctionnement de l'interface graphique en tapant 'startx' ${N}"
+
+
