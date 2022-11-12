@@ -28,6 +28,8 @@ echo "${B}##Installation et configuration du gestionnaire de clavier##${N}"
 
 sudo apt install console-common -y
 
+setxkbmap fr
+
 
 echo "${B}--Vous pouvez maintenant tester le fonctionnement de l'interface graphique en tapant 'startx' ${N}"
 
