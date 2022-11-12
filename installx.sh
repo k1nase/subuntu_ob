@@ -1,15 +1,15 @@
 #!bin/bash
 
-sudo apt install -y icewm
+sudo apt install icewm -y
 
-sudo apt install -y xinit
+sudo apt install xinit -y
 
-sudo apt install -y x11-xserver-utils
+sudo apt install x11-xserver-utils -y
 
-sudo apt install -y build-essential
+sudo apt install build-essential -y
 
-sudo apt install -y libx11-dev libsft-dev libharfbuzz-dev libxinerama-dev
+sudo apt install libx11-dev libsft-dev libharfbuzz-dev libxinerama-dev -y
 
-sudo apt install -y xterm gedit firefox pcmanfm nitrogen ubuntu-wallpapers-jammy 
+sudo apt install xterm gedit firefox pcmanfm nitrogen ubuntu-wallpapers-jammy -y
 
 
