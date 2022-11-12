@@ -4,6 +4,8 @@ N=$(tput sgr0)
 
 #network manager
 # de quoi remplacer ice :
+echo "${B}###Installation d'Openbox###${N}"
+sudo apt install openbox -y
 # tray
 # panel
 # lxsession truc du genre
