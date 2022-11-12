@@ -1,2 +1,2 @@
-# sh
+# sh-apt-ubuntuserv
 shell scripts
