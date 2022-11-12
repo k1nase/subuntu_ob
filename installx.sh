@@ -22,15 +22,5 @@ sudo apt install build-essential -y
 
 echo "${B}##Installation des logiciels de base + wallapers##${N}"
 
-sudo apt install xterm gedit firefox pcmanfm nitrogen ubuntu-wallpapers-jammy sukcless-tools-y
-
-echo "${B}##Installation et configuration du gestionnaire de clavier##${N}"
-
-sudo apt install console-common -y
-
-setxkbmap fr
-
-
-echo "${B}--Vous pouvez maintenant tester le fonctionnement de l'interface graphique en tapant 'startx' ${N}"
-
+sudo apt install xterm gedit firefox pcmanfm nitrogen ubuntu-wallpapers-jammy suckless-tools-y
 
