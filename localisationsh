@@ -1,4 +1,7 @@
+#!bin/bash
 
+B=$(tput bold)
+N=$(tput sgr0)
 
 
 echo "${B}##Installation et configuration du gestionnaire de clavier##${N}"
