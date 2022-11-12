@@ -17,6 +17,6 @@ sudo timedatectl set-ntp yes
 sudo timedatectl set-timezone Europe/Paris
 
 
-echo "${B}--Vous pouvez maintenant tester le fonctionnement de l'interface graphique en tapant 'startx' ${N}"
+
 
 
