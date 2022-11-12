@@ -13,7 +13,7 @@ sudo apt install openbox -y
 # gestionnaire son (pulseaudio)
 sudo apt install xpdf numlockx
 
-sudo update-rc.d -f nitrogen --restore defaults
+
 
 echo "${B}###Configuration autostart###${N}"
 cp ~/sh/autostart ~/.config/openbox
