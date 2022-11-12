@@ -23,4 +23,3 @@ chmod +x ~/.config/openbox/autostart
 
 echo "${B}###Configuration raccourcis###${N}"
 cp ~/sh/rc.xml ~/.config/openbox
-chmod +x ~/.config/openbox/autostart
