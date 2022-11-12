@@ -6,7 +6,7 @@ N=$(tput sgr0)
 # de quoi remplacer ice :
 echo "${B}###Installation d'Openbox###${N}"
 sudo apt install openbox -y
-# tray
+sudo apt install taryer -y
 # panel
 # lxsession truc du genre
 # gestionnaire d'alimentation
