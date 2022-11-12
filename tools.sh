@@ -9,7 +9,7 @@ sudo apt install openbox -y
 #systray
 sudo apt install polybar -y
 # lxsession truc du genre
-sudo apt install lxsession -y
+# sudo apt install lxsession -y
 # gestionnaire d'alimentation
 # gestionnaire son (pulseaudio)
 
