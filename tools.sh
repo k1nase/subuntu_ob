@@ -6,13 +6,15 @@ N=$(tput sgr0)
 # de quoi remplacer ice :
 echo "${B}###Installation d'Openbox###${N}"
 sudo apt install openbox -y
-sudo apt install taryer -y
-# panel
+#systray
+sudo apt install trayer -y
 # lxsession truc du genre
+sudo apt install lxsession -y
 # gestionnaire d'alimentation
 # gestionnaire son (pulseaudio)
-sudo apt install xpdf numlockx
 
+#autres trucs
+sudo apt install xpdf numlockx
 
 
 echo "${B}###Configuration autostart###${N}"
