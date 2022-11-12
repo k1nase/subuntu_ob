@@ -7,7 +7,7 @@ N=$(tput sgr0)
 echo "${B}###Installation d'Openbox###${N}"
 sudo apt install openbox -y
 #systray
-sudo apt install trayer -y
+sudo apt install polybar -y
 # lxsession truc du genre
 sudo apt install lxsession -y
 # gestionnaire d'alimentation
