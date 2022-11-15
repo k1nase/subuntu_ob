@@ -6,7 +6,7 @@ N=$(tput sgr0)
 
 echo "${B}##Installation et configuration du gestionnaire de clavier##${N}"
 
-sudo apt install console-common -y
+dpkg-reconfigure keyboard-configuration
 
 setxkbmap fr
 
