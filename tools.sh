@@ -13,6 +13,9 @@ sudo apt install sddm -y
 # gestionnaire d'alimentation
 # gestionnaire son (pulseaudio)
 
+sudo add-apt-repository ppa:aslatter/ppa -y
+sudo apt install alacritty
+
 #autres trucs
 sudo apt install xpdf numlockx
 
