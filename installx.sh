@@ -4,10 +4,6 @@ B=$(tput bold)
 N=$(tput sgr0)
 
 
-echo "${B}##Installation icewm##${N}"
-
-sudo apt install icewm -y
-
 echo "${B}##Installation serveur X##${N}"
 
 sudo apt install xinit -y
