@@ -16,6 +16,10 @@ echo "${B}##Installation utilitaires de build X##${N}"
 
 sudo apt install build-essential -y
 
+echo "${B}##Installation utilitaires de openbox##${N}"
+
+sudo apt install openbox -y
+
 echo "${B}##Installation des logiciels de base + wallapers##${N}"
 
 sudo apt install xterm gedit firefox pcmanfm nitrogen ubuntu-wallpapers-jammy suckless-tools-y
