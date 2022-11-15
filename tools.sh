@@ -18,8 +18,8 @@ sudo apt install xpdf numlockx
 
 
 echo "${B}###Configuration autostart###${N}"
-cp ~/sh/autostart ~/.config/openbox
+cp ~/subuntu_ob/autostart ~/.config/openbox
 chmod +x ~/.config/openbox/autostart
 
 echo "${B}###Configuration raccourcis###${N}"
-cp ~/sh/rc.xml ~/.config/openbox
+cp ~/subuntu_ob/rc.xml ~/.config/openbox
