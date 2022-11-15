@@ -10,7 +10,7 @@ sudo apt install xinit -y
 
 echo "${B}##Installation utilitaires serveur X##${N}"
 
-sudo apt install x11-xserver-utils libx11-dev libsft-dev libharfbuzz-dev libxinerama-dev -y
+sudo apt install x11-xserver-utils libx11-dev libxft-dev libharfbuzz-dev libxinerama-dev -y
 
 echo "${B}##Installation utilitaires de build X##${N}"
 
