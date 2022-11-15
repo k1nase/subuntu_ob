@@ -22,6 +22,6 @@ sudo apt install openbox -y
 
 echo "${B}##Installation des logiciels de base + wallapers##${N}"
 
-sudo apt install xterm gedit firefox pcmanfm nitrogen ubuntu-wallpapers-jammy suckless-tools-y
+sudo apt install xterm gedit firefox pcmanfm nitrogen ubuntu-wallpapers-jammy suckless-tools -y
 
 echo "${B}--Vous pouvez maintenant tester le fonctionnement de l'interface graphique en tapant 'startx' ${N}"
