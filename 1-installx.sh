@@ -18,7 +18,7 @@ sudo apt install build-essential -y
 
 echo "${B}##Installation utilitaires de l'interface graphique##${N}"
 
-sudo apt install openbox polybar sddm -y
+sudo apt install openbox polybar sddm compton -y
 
 echo "${B}##Installation des logiciels de base + wallapers##${N}"
 
