@@ -4,4 +4,3 @@ shell scripts to automate install
 
 To-do
 
-Upload openbox rc.xml
